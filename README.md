@@ -4,7 +4,7 @@
 ## Executive Summary
 This repository presents a comprehensive security code review and static application security testing (SAST) demonstration targeting critical web and system vulnerability classes defined in the **OWASP Top 10 (A03:2021 – Injection)**. The project showcases vulnerable implementation patterns alongside defensive programming remediation strategies, complete with automated unit tests and SAST scan results using **Bandit**.
 
----
+
 
 ## Technical Audit Findings
 
