@@ -1,5 +1,6 @@
 # CodeAlpha Cybersecurity Internship - Task 3
 
+
 ## Secure Coding Review & Audit Report
 
 ### Overview
