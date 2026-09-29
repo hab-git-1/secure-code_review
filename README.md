@@ -5,7 +5,6 @@
 ### Overview
 This project performs a static security code review to identify critical vulnerabilities based on OWASP Top 10 guidelines. It provides side-by-side analysis of common code flaws alongside defensive programming fixes.
 
----
 
 ### Audit Findings
 
