@@ -19,7 +19,7 @@ This repository presents a comprehensive security code review and static applica
   query = "SELECT * FROM users WHERE username = ? AND password = ?"
   cursor.execute(query, (username, password))
 
----
+
 
 ### 2. Command Injection (OWASP A03:2021)
 * **Vulnerability Type:** CWE-78 (Improper Neutralization of Special Elements used in an OS Command)
@@ -34,7 +34,7 @@ This repository presents a comprehensive security code review and static applica
       raise ValueError("Invalid target format")
   subprocess.run(["ping", "-c", "1", hostname], check=True)
 
----
+
 
 ## Static Application Security Testing (SAST)
 
@@ -64,7 +64,7 @@ Run metrics:
         Medium: 1
         High: 0
 
----
+
 
 ## Dynamic Testing & Verification
 
@@ -76,7 +76,7 @@ python3 vulnerable_app.py
 Execute the security control test suite to verify defense mechanics:
 python3 test_security.py
 
----
+
 
 ## Repository Structure
 
