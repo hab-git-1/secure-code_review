@@ -1,4 +1,3 @@
-# CodeAlpha Cybersecurity Internship - Task 3
 ## Secure Coding Review & Static Application Security Testing (SAST) Audit Report
 
 ## Executive Summary
